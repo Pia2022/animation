@@ -1,0 +1,13 @@
+
+.party {
+    font: 'Lobster', cursive;
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+
+.party:hover {
+    color: blueviolet;
+    transition: all 0.9s ease-in-out;
+}
